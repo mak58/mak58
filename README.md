@@ -1,9 +1,9 @@
-![Programação](https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif)
-
 # Olá, eu sou o Márcio Koehler! 👋
 
 Sou um desenvolvedor de software com 2,5 anos de experiência, apaixonado por criar soluções de software eficientes e eficazes. Trabalho com várias tecnologias, incluindo Delphi, C#, SQL Firebird.
 Nas areas de estudos, já conectei aplicação C# com SQL Server, SQL Lite, RavenDb e Firebird.
+
+![Programação](https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif)
 
 ## Sobre Mim
 - 🎓 Graduado em Análise e desenvolvimento de sistemas.
