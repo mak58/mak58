@@ -1,4 +1,4 @@
-![Programação]((https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif))
+![Programação](https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif)
 
 # Olá, eu sou o Márcio Koehler! 👋
 
